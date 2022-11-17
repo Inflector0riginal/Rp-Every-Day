@@ -5,9 +5,6 @@ If you have an idea, then you can go to the discord server and present your idea
 
 [Discord](https://discord.gg/wZDmH48WqV).
 
-# Rules
-No NSFW,just dont,or you will be baned
-
 # Some problems we can't fix now
  **Servers and Servers code**
 * Yes,we do not know how to set up the server, and to make it work with the code,so I will be grateful if you can help with advice.
